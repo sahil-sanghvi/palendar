@@ -37,8 +37,8 @@ Palendar is a mobile-first calendar application that streamlines group coordinat
 To explore the application without creating a new account, you can use the demo credentials below:
 
 **Demo User**
-- **Email:** demo@palendar.app  
-- **Password:** demo123
+- **Email:** demo@uvic.ca  
+- **Password:** SENG310isFun!!
 
 > ⚠️ Note: This account is shared and resets periodically. Any data created may be cleared at any time.
 
