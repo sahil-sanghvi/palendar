@@ -75,7 +75,21 @@ This project followed a structured HCI methodology:
 - Iteration based on feedback and observations
 
 ---
+## 📂 Design & Research Documentation
 
+All design and evaluation artifacts were produced following the official
+SENG 310 project structure:
+
+- **PA1:** Project Proposal
+- **PA2:** Understanding People & Design Requirements
+- **PA3:** Low-Fidelity Prototyping & Heuristic Evaluation
+- **PA4:** Medium-Fidelity Prototype & Evaluation Plan
+- **PA5:** Final User Evaluation
+- **PA6:** Final Presentation
+
+📁 See `/docs/` for full reports and supporting materials.
+
+---
 ## ✨ Key Features
 
 ### 📱 Personal Calendar
