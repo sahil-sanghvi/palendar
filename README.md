@@ -32,6 +32,19 @@ Palendar is a mobile-first calendar application that streamlines group coordinat
 
 ---
 
+## 🔐 Demo Credentials
+
+To explore the application without creating a new account, you can use the demo credentials below:
+
+**Demo User**
+- **Email:** demo@palendar.app  
+- **Password:** demo123
+
+> ⚠️ Note: This account is shared and resets periodically. Any data created may be cleared at any time.
+
+---
+
+
 ## 🎨 Design Process
 
 This project followed a structured HCI methodology:
