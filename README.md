@@ -273,9 +273,9 @@ This project was developed for educational purposes as part of a university cour
 ## 📞 Contact
 
 **Sahil Sanghvi**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@sahil-sanghvi](https://github.com/sahil-sanghvi)
+- LinkedIn: [Sahil Mit Sanghvi](https://linkedin.com/in/sahil-mit-sanghvi)
+- Email: ssanghvi@uvic.ca
 
 ---
 
