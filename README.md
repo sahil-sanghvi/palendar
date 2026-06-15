@@ -285,6 +285,7 @@ The production-ready files will be in the `dist` directory.
 - Sam Sanjay Satish
 - Rishon Rajesh
 - Manya Juneja
+  
 **Special Thanks:**
 - Course instructors and TAs
 - User testing participants
