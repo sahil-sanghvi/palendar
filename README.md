@@ -281,9 +281,10 @@ The production-ready files will be in the `dist` directory.
 **Semester:** [Your Semester/Year]
 
 **Team Members:**
-- Sahil Sanghvi - [Your Role]
-- [Other Team Members if applicable]
-
+- Sahil Sanghvi
+- Sam Sanjay Satish
+- Rishon Rajesh
+- Manya Juneja
 **Special Thanks:**
 - Course instructors and TAs
 - User testing participants
